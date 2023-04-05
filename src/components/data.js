@@ -1,3 +1,4 @@
+// мини БД
 let invoices = [
     {
         name: "Santa monica",
